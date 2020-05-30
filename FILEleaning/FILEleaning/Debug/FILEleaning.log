@@ -1,0 +1,3 @@
+﻿  FILEleaning.cpp
+C:\Users\18264\source\repos\FILEleaning\FILEleaning\FILEleaning.cpp(26,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  FILEleaning.vcxproj -> C:\Users\18264\source\repos\FILEleaning\Debug\FILEleaning.exe
